@@ -1,4 +1,4 @@
-![ViewCount](https://views.whatilearened.today/views/github/avani17101/avani17101.svg?cache=remove) <br>
+![ViewCount](https://views.whatilearened.today/views/github/Adu1234/Adu12343.svg?cache=remove) <br>
 
 Hello there 👋,
 I am Aditya Agrawal. Welcome to my github.
