@@ -1,12 +1,10 @@
 ![ViewCount](https://views.whatilearened.today/views/github/avani17101/avani17101.svg?cache=remove) <br>
 
 Hello there 👋,
-I am Avani. Welcome to my github :stars:
+I am Aditya Agrawal. Welcome to my github :stars:
 
 :information_desk_person: **About me**
-I am a CSE Undergrad and researcher at CVIT, IIIT Hyderabad :mortar_board: <br>
-I am currently working on Neural Rendering, Neural Scene editing using Computer graphics and Deep Learning under Professor PJ Narayan. 
-I am also looking towards interpretability of DL models, Self Supervised Learning, IID kind of problems and temporal human-reconstruction. 
+I am a CSE Undergrad at SRM Chennai. 
 
 
 :dart: **My skills**
